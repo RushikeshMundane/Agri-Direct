@@ -25,3 +25,12 @@ o	In the Plant Disease folder, open Command Prompt.
 o	(You can do this by typing cmd in the address bar of the File Explorer and hitting Enter.)
 11.	Execute Commands:
 o	Copy and paste the necessary commands from the "direct run" file into the command prompt one by one, and press Enter after each.
+
+
+## 👨‍💻 Author
+
+**Rushikesh Mundane**  
+BTech Graduate in Information Technology  
+Frontend & Full Stack Developer  
+🔗 [LinkedIn](https://www.linkedin.com/in/rushikesh-mundane)  
+💻 [GitHub](https://github.com/RushikeshMundane)
